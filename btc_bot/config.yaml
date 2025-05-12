@@ -1,0 +1,9 @@
+name: "Bitcoin Bot2"
+version: "1.0.5"
+slug: "btc_bot2"
+description: "A Telegram bot that sends daily Bitcoin updates"
+startup: services
+boot: auto
+host_network: true
+privileged: []
+schema: {}
