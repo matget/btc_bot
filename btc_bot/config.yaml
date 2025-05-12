@@ -1,6 +1,6 @@
-name: "Bitcoin Bot2"
+name: "Bitcoin Bot"
 version: "1.0.5"
-slug: "btc_bot2"
+slug: "btc_bot"
 description: "A Telegram bot that sends daily Bitcoin updates"
 startup: services
 boot: auto
